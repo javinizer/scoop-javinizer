@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/javinizer/javinizer-go/releases/download/v1.1.0/javinizer-windows-amd64.exe",
-            "hash": "3718adcb574bb00573731145448ee3cbb2fc8186ca138ae6487befecfa1106ed"
+            "hash": "39b9483e03ccddf8120bf451ee297baf9ccd96f56f3ee0e362b5aa25b90d9adb"
         }
     },
     "bin": [
