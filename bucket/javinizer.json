@@ -1,12 +1,12 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "description": "JAV metadata scraper and organizer (CLI, TUI, REST API, and web UI)",
     "homepage": "https://github.com/javinizer/javinizer-go",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/javinizer/javinizer-go/releases/download/v1.2.1/javinizer-windows-amd64.exe",
-            "hash": "e1350967d82b5afc49d1ebd0392d99b208d7fafbbb1f000dc4b1b704068001e8"
+            "url": "https://github.com/javinizer/javinizer-go/releases/download/v1.2.2/javinizer-windows-amd64.exe",
+            "hash": "4e54f3311285c572c8225243f68992c12d5d98312e73251fe214579195f89881"
         }
     },
     "bin": [
