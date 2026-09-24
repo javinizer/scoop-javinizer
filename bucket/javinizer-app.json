@@ -1,12 +1,12 @@
 {
-    "version": "1.5.2",
+    "version": "1.6.0",
     "description": "JAV metadata scraper and organizer — desktop app (clickable GUI over the embedded API server and Web UI)",
     "homepage": "https://github.com/javinizer/javinizer-go",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/javinizer/javinizer-go/releases/download/v1.5.2/javinizer-desktop-windows-amd64.exe",
-            "hash": "b091a5a48449e35f26eec13a1e94cf62c92e1213cb47eafd2d741ebbb12f1e5a"
+            "url": "https://github.com/javinizer/javinizer-go/releases/download/v1.6.0/javinizer-desktop-windows-amd64.exe",
+            "hash": "2ef9f0157a5811fc1f10c0dcdcfb114ace1183f78ded2a2a73dc21298f790ddd"
         }
     },
     "bin": [
